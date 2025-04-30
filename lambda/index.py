@@ -6,7 +6,7 @@ from botocore.exceptions import ClientError
 import urllib.request
 
 # モデルID
-MODEL_ID = " https://29ae-34-48-37-6.ngrok-free.app"
+MODEL_ID = "https://7145-34-48-37-6.ngrok-free.app"
 
 def lambda_handler(event, context):
     try:
